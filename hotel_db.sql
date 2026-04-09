@@ -99,7 +99,7 @@ INSERT INTO Customers (first_name, last_name, email, phone, country) VALUES
 ('Sofia',     'Smith',   'Sofia@example.com',    '+447911123456',  'UK'),
 ('Robert',  'Peter',  'robert@example.com', '+34612342670',   'Spain'),
 ('Savanah',   'Smith',     'savanah@example.com',  '+16536450634',   'USA'),
-('Jose',    'Viera',  'emre@example.com',   '+905321254587',  'Turkey');
+('Jose',    'Viera',  'jose@example.com',   '+905321254587',  'Turkey');
 
 INSERT INTO Bookings (customer_id, room_id, check_in, check_out, total_amount, status) VALUES
 (1, 1, '2026-04-01', '2026-04-05', 356.00,  'Completed'),
